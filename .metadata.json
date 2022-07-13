@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "konfound",
+    "oncran": true
+  }
+]
